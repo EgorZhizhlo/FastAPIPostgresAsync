@@ -16,3 +16,9 @@
     git clone https://github.com/EgorZhizhlo/FastAPIPostgresAsync.git
     cd FastAPIPostgresAsync
     docker-compose up --build
+
+
+#### Выводы
+    Повторил построение Docker и docker-compose
+    Поработал с async PostgreSQL
+    
