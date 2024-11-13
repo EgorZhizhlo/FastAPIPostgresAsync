@@ -2,8 +2,6 @@ from pydantic_settings import BaseSettings
 
 
 class Settings(BaseSettings):
-    SECRET_KEY: str
-    ALGORITHM: str
     DB_HOST: str
     DB_PORT: int
     DB_USER: str
